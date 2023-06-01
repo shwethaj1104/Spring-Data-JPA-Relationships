@@ -21,8 +21,8 @@ Any subject can have multiple students
 
 So create a table with both of their id’s and store it, so when we use put request :  http://localhost:8080/subjects/1/students/1  to map student to subject, it will be stored in the new table 
 
-
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/5cd84367-e6b7-44a7-be41-fb7a6cf6a9ef)
+______________________________________________________________________________________________________________________________
 
 After assigning student 1 to subject 1  : list of subjects will be 
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/1e9a00e5-0cfc-4149-b728-173131ad8858)
