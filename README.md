@@ -3,6 +3,7 @@
 teach stack : JAVA, spring boot, soring data jpa
 
 Spring data JPA: is an abstraction of the JPA and hibernate
+__________________________________________________________________________________________________________________
 One to many:
 One teacher can have many subjects
 Post http://localhost:8080/teachers
