@@ -1,8 +1,8 @@
 # Spring-Data-JPA-Relationships
 
-teach stack : JAVA, spring boot, soring data jpa
+Tech Stack : JAVA, Spring boot, Spring data JPA
 
-Spring data JPA: is an abstraction of the JPA and hibernate
+Spring data JPA : A abstraction of the JPA and hibernate
 __________________________________________________________________________________________________________________
 # One to many:
 
