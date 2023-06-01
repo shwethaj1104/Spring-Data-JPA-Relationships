@@ -16,7 +16,9 @@ many subjects can have 1 teacher
 ____________________________________________________________________________________________________________________
 
 # Many to many
-Many subjects can have many students
+
+any subject can have multiple students
+
 So create a table with both of their id’s and store it so when we use http://localhost:8080/subjects/1/students/1  put request to map students to subjects in the new table it will be stored
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/10bc5873-cc29-4c72-9e9e-dfd6412f1c5c)
 
