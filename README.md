@@ -37,8 +37,10 @@ ________________________________________________________________________________
 After assigning teacher 1 to subject 1
 
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/8f231d6e-6987-438e-9f61-e9f1f5c14e6d)
+_______________________________________________________________________________________________________________________________
 
 After assigning teacher 1 to subject 2
+
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/9e0a0528-a09c-4d0c-9ac1-d2951f078b52)
 
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/1ee03dab-b089-4c00-9cea-2e69063b4e97)
