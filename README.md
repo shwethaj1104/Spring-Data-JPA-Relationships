@@ -7,7 +7,9 @@ ________________________________________________________________________________
 # One to many:
 
 One teacher can have many subjects.
+
 Post http://localhost:8080/teachers
+
 Put http://localhost:8080/subjects/1/teacher/1
 __________________________________________________________________________________________________________________
 # Many to one
