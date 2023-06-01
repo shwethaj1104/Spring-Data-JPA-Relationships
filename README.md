@@ -25,9 +25,12 @@ So create a table with both of their id’s and store it, so when we use put req
 ______________________________________________________________________________________________________________________________
 
 After assigning student 1 to subject 1  : list of subjects will be 
+
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/1e9a00e5-0cfc-4149-b728-173131ad8858)
+_______________________________________________________________________________________________________________________________
 
 assigning teacher 1 to subject 1
+
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/965263ed-f4cd-4808-a061-b7f3354afc47)
 
 After assigning teacher 1 to subject 1
