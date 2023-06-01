@@ -17,9 +17,9 @@ ________________________________________________________________________________
 
 # Many to many
 
-any subject can have multiple students
+Any subject can have multiple students
 
-So create a table with both of their id’s and store it so when we use http://localhost:8080/subjects/1/students/1  put request to map students to subjects in the new table it will be stored
+So create a table with both of their id’s and store it, so when we use put request :  http://localhost:8080/subjects/1/students/1  to map student to subject, it will be stored in the new table 
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/10bc5873-cc29-4c72-9e9e-dfd6412f1c5c)
 
 ![image](https://github.com/shwethaj1104/Spring-Data-JPA-Relationships/assets/107784718/d480176a-22c2-4642-9114-5f2642a0a265)
