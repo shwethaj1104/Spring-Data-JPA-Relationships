@@ -1,6 +1,6 @@
 # Spring-Data-JPA-Relationships
 
-Tech Stack : JAVA, Spring boot, Spring data JPA
+Tech Stack : JAVA, Spring boot, Spring data JPA, Postgres
 
 Spring data JPA : A abstraction of the JPA and hibernate
 __________________________________________________________________________________________________________________
